@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(34, 43, 78);
+}
+.addbook-main{
+    border: 1px solid red;
+    height: 65vh;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 8%;
+}
+.addbookinput{
+    margin-left: 15%;
+}
+.addbookinput input{
+ 
+        margin-top: 4%;
+        height: 3.5vh;
+        width: 21vw;
+        border: none;
+        text-align: center;
+        background-color:rgb(188, 183, 183);
+        color: black;
+        border-radius: 3px;
+    
+    
+}
+.booklist-btn{
+    height: 3vh;
+    width: 8vw;
+    color: yellow;
+    margin-left: 1%;
+    margin-top: 1%;
+    border: 1px solid yellow;
+    text-align: center;
+}
+.add-title{
+    color: azure;
+    text-align: center;
+    text-align: center;
+}
+.submit-btn{
+    text-align: center;
+    height: 3.5vh;
+    width: 21vw;
+    border: 1px solid yellow;
+    margin-top: 3%;
+    margin-left: 15%;
+    color: yellow;
+    border-radius: 3px;
+}
+.submit-btn:hover{
+    cursor: pointer;
+    background-color: yellow;
+    color: black;
+}

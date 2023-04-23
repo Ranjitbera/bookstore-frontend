@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(34, 43, 78);
+}
+.main-main{
+   display: flex;
+  align-items: center;
+  color: azure;
+ 
+}
+.main-main h1{
+    /* margin-right: 35%; */
+    margin-left: 45%;
+}
+.main-main button{
+    margin-left: 35%;
+    height: 4vh;
+    width: 6vw;
+    background-color: antiquewhite;
+    border-radius: 3px;
+}
+.main-main button:hover{
+    cursor: pointer;
+    background-color: rgb(249, 221, 184);
+    font-size: medium;
+}
+.addnewbook-btn{
+    float: right;
+    margin-right: 2%;
+    background-color: yellow;
+    height: 3vh;
+    width: 10vw;
+    text-align: center;
+    margin-top: 1%;
+}
+.addnewbook-btn:hover{
+    cursor: pointer;
+    background-color: rgb(221, 221, 54);
+}
+.main-lower{
+    display: flex;
+    flex-direction: row;
+    margin-top:5%;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-left: 3%;
+  
+}

@@ -1,0 +1,26 @@
+.card-main{
+    height:40vh;
+    width: 15vw;
+    border: 1px solid red;
+}
+.card-main:hover{
+    cursor: pointer;
+}
+.header{
+    height: 70%;
+    background-color: antiquewhite;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.book-tittle{
+    margin-top: 3%;
+    color: blue;
+}
+.book-author{
+    color: grey;
+}
+.book-desc{
+    color: azure;
+}
